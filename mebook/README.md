@@ -1,2 +1,0 @@
-- tidak tampil semua api e-kinerja
-- Api e-kinerja bulan masih manual
